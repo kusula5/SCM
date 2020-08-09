@@ -1,5 +1,6 @@
 #!/bin/bash
 #program
+#this code is to add statememt for Aug-release
 valid=true
 count=1
 while [ $valid ]
